@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Моя сторінка</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
     <h1>Артем Полігов</h1>
